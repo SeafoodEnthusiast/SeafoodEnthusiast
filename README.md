@@ -1,4 +1,4 @@
-## Hi, I'm Alessandro Moreno Lawadinata
+## Hi, I'm Alessandro Moreno Lawadinata 
 
 Data Science student at Bina Nusantara University and a learner at the Apple Developer Academy @ BINUS. I work mostly on machine learning — taking a problem from raw data through to something that actually runs — and I'm currently learning iOS development in Swift.
 
@@ -15,10 +15,6 @@ End-to-end ML pipeline predicting whether a hotel reservation will be cancelled.
 **[Customer Segmentation with K-Means](https://github.com/SeafoodEnthusiast/customer-segmentation-kmeans)**
 Clustered 3,900 e-commerce customers to find which promotional strategies fit each segment. The segmentation turned out to be driven by promotional behaviour rather than demographics — age and spending were identical across every cluster.
 `Python` `scikit-learn` `pandas` `Seaborn`
-
-**Food Price Prediction Across Indonesian Provinces**
-Time-series forecasting model built with a 3-person team for Arkavidia 9, a national data science competition hosted by Institut Teknologi Bandung. Used LightGBM with Optuna hyperparameter tuning and TimeSeriesSplit cross-validation.
-`Python` `LightGBM` `Optuna`
 
 ---
 
