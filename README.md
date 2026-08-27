@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Alessandro Moreno Lawadinata
 
-<!--
-**SeafoodEnthusiast/SeafoodEnthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at Bina Nusantara University and a learner at the Apple Developer Academy @ BINUS. I work mostly on machine learning — taking a problem from raw data through to something that actually runs — and I'm currently learning iOS development in Swift.
 
-Here are some ideas to get you started:
+Outside of code I play competitive chess, which is where I first got interested in pattern recognition and decision-making under constraints.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+
+**[Hotel Booking Cancellation Prediction](https://github.com/SeafoodEnthusiast/UTSModelDeployment-app)**
+End-to-end ML pipeline predicting whether a hotel reservation will be cancelled. Compared Random Forest and XGBoost, refactored the training workflow into OOP, and deployed the selected model as a Streamlit web app.
+`Python` `scikit-learn` `XGBoost` `Streamlit` · [Live demo](https://utsmodeldeployment-app-gbs2bah3cg3xpubngca83i.streamlit.app)
+
+**[Customer Segmentation with K-Means](https://github.com/SeafoodEnthusiast/customer-segmentation-kmeans)**
+Clustered 3,900 e-commerce customers to find which promotional strategies fit each segment. The segmentation turned out to be driven by promotional behaviour rather than demographics — age and spending were identical across every cluster.
+`Python` `scikit-learn` `pandas` `Seaborn`
+
+**Food Price Prediction Across Indonesian Provinces**
+Time-series forecasting model built with a 3-person team for Arkavidia 9, a national data science competition hosted by Institut Teknologi Bandung. Used LightGBM with Optuna hyperparameter tuning and TimeSeriesSplit cross-validation.
+`Python` `LightGBM` `Optuna`
+
+---
+
+### Currently
+
+- Building iOS applications in Swift and SwiftUI at the Apple Developer Academy
+- Strengthening my SQL and data visualisation skills
+- Open to internship opportunities in data science and analytics
+
+### Reach me
+
+[LinkedIn](https://linkedin.com/in/alessandro-moreno-lawadinata) · alessandro.moreno909@gmail.com
