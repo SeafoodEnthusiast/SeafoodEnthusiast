@@ -1,6 +1,6 @@
 ## Hi, I'm Alessandro Moreno Lawadinata 
 
-Data Science student at Bina Nusantara University and a learner at the Apple Developer Academy @ BINUS. I work mostly on machine learning — taking a problem from raw data through to something that actually runs — and I'm currently learning iOS development in Swift.
+Data Science student at Bina Nusantara University and a learner at the Apple Developer Academy @ BINUS, Tangerang. I work mostly on machine learning — taking a problem from raw data through to something that actually runs — and I'm currently learning iOS development in Swift.
 
 Outside of code I play competitive chess, which is where I first got interested in pattern recognition and decision-making under constraints.
 
