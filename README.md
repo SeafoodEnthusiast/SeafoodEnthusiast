@@ -20,7 +20,7 @@ Clustered 3,900 e-commerce customers to find which promotional strategies fit ea
 Fine-tuned IndoBERT to classify Indonesian sports news into five categories (four football leagues and non-football), comparing a one-stage classifier against a two-stage hierarchical pipeline. The one-stage model performed better, with 90% test accuracy against 87.5% for the second stage. 
 `Python` `PyTorch` `Hugging Face` `IndoBERT` `Sastrawi` · 
 
-**[Obesity Level Prediction API](https://github.com/SeafoodEnthusiast/customer-segmentation-kmeans)**
+**[Obesity Level Prediction API](https://github.com/SeafoodEnthusiast/obesity-prediction-fastapi-streamlit)**
 End-to-end ML service that classifies obesity level from lifestyle and body measurements. Compared Random Forest and XGBoost, saved the best model with its preprocessing artifacts, and served it through a FastAPI backend with a Streamlit front end.
 `Python` `scikit-learn` `XGBoost` `FastAPI` `Streamlit` · 
 
