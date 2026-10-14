@@ -16,6 +16,16 @@ End-to-end ML pipeline predicting whether a hotel reservation will be cancelled.
 Clustered 3,900 e-commerce customers to find which promotional strategies fit each segment. The segmentation turned out to be driven by promotional behaviour rather than demographics where age and spending were identical across every cluster.
 `Python` `scikit-learn` `pandas` `Seaborn`
 
+**[Indonesian Sports News Classification](https://github.com/SeafoodEnthusiast/customer-segmentation-kmeans)**
+Fine-tuned IndoBERT to classify Indonesian sports news into five categories (four football leagues and non-football), comparing a one-stage classifier against a two-stage hierarchical pipeline. The one-stage model performed better, with 90% test accuracy against 87.5% for the second stage. 
+`Python` `PyTorch` `Hugging Face` `IndoBERT` `Sastrawi` · 
+
+**[Obesity Level Prediction API](https://github.com/SeafoodEnthusiast/customer-segmentation-kmeans)**
+End-to-end ML service that classifies obesity level from lifestyle and body measurements. Compared Random Forest and XGBoost, saved the best model with its preprocessing artifacts, and served it through a FastAPI backend with a Streamlit front end.
+`Python` `scikit-learn` `XGBoost` `FastAPI` `Streamlit` · 
+
+
+
 ---
 
 ### Currently
